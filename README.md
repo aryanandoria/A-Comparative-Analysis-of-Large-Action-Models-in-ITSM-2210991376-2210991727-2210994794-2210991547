@@ -1,4 +1,4 @@
-# Weighted Ensemble Steganalysis: Integrating CNN, XGBoost, and LightGBM
+# A-Comparative-Analysis-of-Large-Action-Models-in-ITSM
 
 ## Team Members
 - Aryan Andoria - 2210991376
